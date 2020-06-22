@@ -7,4 +7,4 @@ Any CFI mechanism consists of two abstract components: the (often static) analys
 For the forward-edge, a strong mechanism must consider language-specific semantics to restrict the set of valid targets as much as possible. Limiting the size of the target sets constrains the attacker on the forward edge. For the backward edge, a context-sensitive approach that enforces stack integrity guarantees full protection.
 
 
-All the work in this repository was created under the mentorship of Dr. Arvind Mallari Rao who is a scientist at DRDO( Defence Reserach and Developemnt Organization). Check out this papaers here :- https://scholar.google.com/citations?user=RTGwMqgAAAAJ&hl=en
+All the work in this repository was created under the mentorship of Dr. Arvind Mallari Rao who is a scientist at DRDO( Defence Reserach and Development Organization). Check out his papers here :- https://scholar.google.com/citations?user=RTGwMqgAAAAJ&hl=en
